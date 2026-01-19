@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 public class TernaryOperator {
     static void main() {
         int n = 11;

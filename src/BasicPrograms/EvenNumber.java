@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 public class EvenNumber {
     public static void main(String[] args) {
         int count = 0;

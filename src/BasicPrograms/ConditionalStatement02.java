@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 public class ConditionalStatement02 {
         public static void main(String[] args) {
 

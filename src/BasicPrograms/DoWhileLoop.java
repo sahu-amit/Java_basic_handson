@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 public class DoWhileLoop {
     static void main() {
         int i = 5;

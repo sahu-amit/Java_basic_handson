@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 public class TypeCasting {
     static void main() {
         byte a = 10;

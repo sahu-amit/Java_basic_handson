@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 public class Operators {
         public static void main(String[] args){
 
@@ -13,11 +15,11 @@ public class Operators {
             System.out.println("Multiplication: "+multiply);
             int divide  = a/b;
             System.out.println("Division: "+divide);
-//Relational Operators or Comparators
+//Relational BasicPrograms.Operators or Comparators
             boolean result = a>b;
             System.out.println("Is a greater than b? "+result);
 
-//Logical Operators
+//Logical BasicPrograms.Operators
             result = a>b && b>0;
             System.out.println("Is a > b and b > 0? "+result);
 

@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 public class WhileLoop {
     static void main() {
         int i = 1;

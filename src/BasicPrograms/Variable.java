@@ -1,3 +1,5 @@
+package BasicPrograms;
+
 public class Variable {
     static void main() {
         byte a = 127;
