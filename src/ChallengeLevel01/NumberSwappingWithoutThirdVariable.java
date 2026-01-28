@@ -3,7 +3,7 @@ package ChallengeLevel01;
 import java.util.Scanner;
 
 public class NumberSwappingWithoutThirdVariable {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         System.out.print("Enter 1st Number: ");
         Scanner sc = new Scanner(System.in);
         int a = sc.nextInt();

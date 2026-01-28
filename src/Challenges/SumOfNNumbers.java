@@ -3,7 +3,7 @@ package Challenges;
 import java.util.Scanner;
 
 public class SumOfNNumbers {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int n;
         int sum =0;
         Scanner sc = new Scanner(System.in);

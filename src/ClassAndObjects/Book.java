@@ -7,7 +7,7 @@ public class Book {
 }
 
 class B1 {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Book book = new Book();
         Book book1 = new Book();
         book.title = "Vaidik Math";

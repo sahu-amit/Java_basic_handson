@@ -7,7 +7,7 @@ public class Animal {
 }
 
 class Anml{
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Animal animal = new Animal();
         animal.name = "Dog";
         animal.type = "Kombai Dog";

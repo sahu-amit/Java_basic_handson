@@ -3,7 +3,7 @@ package ChallengeLevel01;
 import java.util.Scanner;
 
 public class PrimeNumberValidation {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Scanner scn = new Scanner(System.in);
         System.out.print("Enter the number to check prime number: ");
         int n = scn.nextInt();

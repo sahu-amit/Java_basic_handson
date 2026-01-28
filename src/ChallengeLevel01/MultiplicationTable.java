@@ -3,7 +3,7 @@ package ChallengeLevel01;
 import java.util.Scanner;
 
 public class MultiplicationTable {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int n;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the number for which you want Multiplication table: ");

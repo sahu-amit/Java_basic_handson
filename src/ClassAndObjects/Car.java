@@ -7,7 +7,7 @@ public class Car {
 }
 
 class C1{
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Car car = new Car();
         car.model = 2025;
         car.color = "Vibrant Red";

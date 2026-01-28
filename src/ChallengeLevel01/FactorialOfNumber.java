@@ -3,7 +3,7 @@ package ChallengeLevel01;
 import java.util.Scanner;
 
 public class FactorialOfNumber {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         System.out.print("Enter the number to check factorial: ");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

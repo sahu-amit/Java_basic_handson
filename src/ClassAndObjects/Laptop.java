@@ -7,7 +7,7 @@ public class Laptop {
 }
 
 class Lptp{
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Laptop laptop = new Laptop();
         laptop.brand = "Lenovo";
         laptop.ram = 16;

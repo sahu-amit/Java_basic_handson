@@ -3,7 +3,7 @@ package Challenges;
 import java.util.Scanner;
 
 public class GreatestNumber {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int A, B, C;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter 1st number: ");

@@ -7,7 +7,7 @@ public class Course {
 }
 
 class Crse{
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Course course = new Course();
         course.courseName = "Data Science";
         course.duration = 730;

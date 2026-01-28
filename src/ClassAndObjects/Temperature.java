@@ -8,7 +8,7 @@ public class Temperature {
     }
 }
 class TMP{
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Temperature temp = new Temperature();
         temp.celsius = 37;
 

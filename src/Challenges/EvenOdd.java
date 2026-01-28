@@ -3,7 +3,7 @@ package Challenges;
 import java.util.Scanner;
 
 public class EvenOdd {
-    public static void main(String[] args) {
+    static void main(String[] args) {
     int A;
     Scanner sc = new Scanner(System.in);
     System.out.print("Enter any number to check: ");

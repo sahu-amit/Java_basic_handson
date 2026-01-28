@@ -13,7 +13,7 @@ public class WhileLoop {
             }
             System.out.println("Hi "+i);
             ++i;
-        };
+        }
         //Pre Increment
         System.out.println(++i);
 

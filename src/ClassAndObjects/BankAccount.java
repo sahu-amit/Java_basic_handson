@@ -11,7 +11,7 @@ public class BankAccount {
 }
 
 class BnkACT{
-    public static void main(String[] args) {
+    static void main(String[] args) {
         BankAccount bankACT = new BankAccount();
         bankACT.accountNumber = 1254687451;
 

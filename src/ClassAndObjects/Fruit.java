@@ -7,7 +7,7 @@ public class Fruit {
 }
 
 class Fr{
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Fruit fruit = new Fruit();
         fruit.name = "Mango";
         fruit.color = "Radish Yellow";

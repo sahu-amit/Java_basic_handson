@@ -9,7 +9,7 @@ public class Clock {
     }
 }
 class Clk{
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Clock clock = new Clock();
         clock.hours = 19;
         clock.minutes= 1;

@@ -1,7 +1,7 @@
 package ChallengeLevel01;
 
 public class GreaterNumber {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int a = 15;
         int b = 20;
 

@@ -10,7 +10,7 @@ public class Box {
     }
 }
 class Bx{
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Box box = new Box();
         box.length = 15.10;
         box.width = 10.25;

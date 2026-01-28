@@ -7,7 +7,7 @@ public class Student {
 }
 
 class St{
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Student std = new Student();
         std.rollNo = "01HW244647";
         std.name = "Shalu";

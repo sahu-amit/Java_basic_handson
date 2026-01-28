@@ -1,7 +1,7 @@
 package Challenges;
 
 public class SumOfFirstTenNumbers {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int number = 10;
         int sum = number*(number+1)/2;
         System.out.println("Sum of first 10 number is: "+sum);

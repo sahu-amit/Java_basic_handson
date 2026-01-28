@@ -13,7 +13,7 @@ public class Employee {
 }
 
 class Emply{
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Employee emp = new Employee();
         emp.id = 123654;
         emp.name = "Shankar Mahadev";

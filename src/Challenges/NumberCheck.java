@@ -3,7 +3,7 @@ package Challenges;
 import java.util.Scanner;
 
 public class NumberCheck {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int A;
         Scanner sc = new Scanner(System.in);
         A = sc.nextInt();

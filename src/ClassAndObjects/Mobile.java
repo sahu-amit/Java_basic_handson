@@ -7,7 +7,7 @@ public class Mobile {
 }
 
 class Mb{
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Mobile mbl = new Mobile();
         mbl.brand = "Samsung";
         mbl.model = "Galaxy S24 Ultra 5G AI";

@@ -3,7 +3,7 @@ package Challenges;
 import java.util.Scanner;
 
 public class PrintingNNumbers {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         int n;
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the value of n: ");

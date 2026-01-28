@@ -6,7 +6,7 @@ public class Rectangle {
 }
 
 class Rect{
-    public static void main(String[] args) {
+    static void main(String[] args) {
 
     Rectangle rct = new Rectangle();
     rct.length = 24.00;

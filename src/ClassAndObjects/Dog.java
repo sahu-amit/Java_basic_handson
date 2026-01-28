@@ -7,7 +7,7 @@ public class Dog {
 }
 
 class Main{
-    public static void main(String[] args) {
+    static void main(String[] args) {
         Dog myDog = new Dog();
         myDog.name = "Sheru";
         myDog.breed = "German Shepherd";

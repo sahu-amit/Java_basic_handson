@@ -3,7 +3,7 @@ package ChallengeLevel01;
 import java.util.Scanner;
 
 public class DigitSum {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         System.out.print("Enter any number: ");
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();

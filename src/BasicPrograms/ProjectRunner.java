@@ -1,7 +1,7 @@
 package BasicPrograms;
 
 public class ProjectRunner {
-    public static void main(String[] args) {
+    static void main(String[] args) {
         System.out.println("==========================================");
         System.out.println("      STARTING UNIFIED JAVA PROJECT       ");
         System.out.println("==========================================\n");

@@ -1,7 +1,7 @@
 package BasicPrograms;
 
 public class Operators {
-        public static void main(String[] args){
+        static void main(String[] args){
 
             // write code here
             int a = 20;
